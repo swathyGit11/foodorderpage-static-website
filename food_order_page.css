@@ -1,0 +1,43 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.foodorder_bg_container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/foodbg.png");
+    background-size: cover;
+    height: 100vh;
+    width: 100vw;
+}
+
+.main_heading {
+    font-size: 35px;
+    color: #323f4b;
+    font-family: bree serif;
+}
+
+.paragraph {
+    font-size: 20px;
+    font-family: roboto;
+    color: #323f4b;
+    font-weight: bold;
+}
+
+.restaurant_card {
+    background-color: #f6c56e;
+    padding: 15px;
+    border-top-left-radius: 20px;
+
+
+}
+
+.button {
+    font-size: 13px;
+    font-family: Roboto;
+    font-weight: bold;
+    color: #323f4b;
+    background-color: #ffffff;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    padding: 8px;
+    width: 130px;
+}
